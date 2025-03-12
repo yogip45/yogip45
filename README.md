@@ -49,7 +49,7 @@
   <a href="https://www.facebook.com/narindra.yogi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/narindra-yogi/450547182131478530" target="_blank">
+  <a href="https://discordapp.com/users/450547182131478530" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/narindra-yogi/" target="_blank">
