@@ -1,4 +1,5 @@
 <h2 align="left">Hi👋! My name is Yogi Pradana and I'm a Junior Web Developer from Kebumen, Indonesia</h2>
+<h3 align="left">Currently I'm starting to work at PT. Indo Techno Medic to help in developing ITM SIMRS with my team </h3>
 
 ###
 
