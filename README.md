@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! I'm Yogi Pradana, a Junior Web Developer from Kebumen, Indonesia. I'm currently working at PT. Indo Techno Medic, where I collaborate with my team to develop and enhance ITM SIMRS.</h2>
+<h3 align="left">Hi there! I'm Yogi Pradana, a Junior Web Developer from Kebumen, Indonesia. I'm currently working at PT. Indo Techno Medic, where I collaborate with my team to develop and enhance ITM SIMRS.</h3>
 <!--<h3 align="left">Currently I'm starting to work at PT. Indo Techno Medic to help in developing ITM SIMRS with my team </h3>-->
 
 ###
