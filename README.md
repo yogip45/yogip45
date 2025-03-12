@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Yogi Pradana and I'm a Junior Web Developer, from Kebumen, Indonesia</h2>
+<h2 align="left">Hi👋! My name is Yogi Pradana and I'm a Junior Web Developer from Kebumen, Indonesia</h2>
 
 ###
 
