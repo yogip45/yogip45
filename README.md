@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=30&pause=500&color=FFFFFF&width=450&height=60&lines=Hi+There!)
+<!--![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=30&pause=500&color=FFFFFF&width=450&height=60&lines=Hi+There!)-->
+<h2>Hi there!</h2>
 <h3 align="left">Nice to meet you, my name is Yogi Pradana, a Junior Web Developer from Kebumen, Indonesia. I'm currently working at PT. Indo Techno Medic, where I collaborate with my team to develop and enhance ITM SIMRS.</h3>
 <!--<h3 align="left">Currently I'm starting to work at PT. Indo Techno Medic to help in developing ITM SIMRS with my team </h3>-->
 
@@ -38,7 +39,7 @@
 </div>
 
 ###
-
+<h2>Let's Connect</h2>
 <div align="left">
   <a href="https://www.youtube.com/@yogip45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
