@@ -42,7 +42,6 @@
 
 ###
 <h2>Let's Connect</h2>
-<h3>or email me: narindrayogipradana@gmail.com</h3>
 <div align="left">
   <a href="https://www.youtube.com/@yogip45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
@@ -63,6 +62,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>-->
 </div>
+<h3>or email me: narindrayogipradana@gmail.com</h3>
 
 ###
 
