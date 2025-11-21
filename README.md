@@ -1,6 +1,6 @@
 <!--![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=30&pause=500&color=FFFFFF&width=450&height=60&lines=Hi+There!)-->
 <h2>Hi there!</h2>
-<h3 align="left">Nice to meet you, you can call me Yog, a Junior Web Developer from Kebumen, Indonesia. I'm currently working at PT. Indo Techno Medic, where I collaborate with my team to develop and enhance Technomedic SIMRS Web Application.</h3>
+<h3 align="left">Nice to meet you, the name is Yog, a Junior Web Developer from Kebumen, Indonesia. I'm currently working at PT. Indo Techno Medic, where I collaborate with my team to develop and enhance Technomedic SIMRS Web Application.</h3>
 
 ###
 
