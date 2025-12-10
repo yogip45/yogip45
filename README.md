@@ -4,7 +4,7 @@
   Junior Web Developer at PT. Indo Techno Medic, I develop and maintain the Technomedic SIMRS Web Application, as well as manage on-site implementation and user training for partner hospitals.
 </h3>
 
-<h2>Tech Stack</h2>
+<h2>What I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
   <img width="12" />
