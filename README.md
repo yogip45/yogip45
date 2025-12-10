@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
 </div>
 
-<h2>What I Work On</h2>
+<h2>What I Do</h2>
 <ul>
   <li>Developing and maintaining SIMRS modules using CodeIgniter and PostgreSQL</li>
   <li>Implementing multi-user level workflows and system logic within hospital environments</li>
