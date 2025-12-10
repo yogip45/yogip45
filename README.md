@@ -46,3 +46,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord" />
   </a>
 </div>
+<ul>
+  <li>For inquiries about our SIMRS products or onboarding, visit:  
+    <a href="https://technomedic.id" target="_blank">https://technomedic.id</a>
+  </li>
+</ul>
+
