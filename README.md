@@ -1,9 +1,7 @@
 <h2>Hi there, I'm Yog</h2>
 
 <h3 align="left">
-  Junior Web Developer from Kebumen, Indonesia.  
-  I’m currently working at PT. Indo Techno Medic, focusing on building, improving, and maintaining the Technomedic SIMRS Web Application.  
-  Aside from development, I also handle on-site implementation at partner hospitals, including training (sosialisasi) for end-users and supporting hospitals that are adopting our system for the first time.
+  Junior Web Developer at PT. Indo Techno Medic, I develop and maintain the Technomedic SIMRS Web Application, as well as manage on-site implementation and user training for partner hospitals.
 </h3>
 
 <h2>Tech Stack</h2>
