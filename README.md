@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=007acc&height=180&section=header&text=Hi%20there,%20Yog%20is%20here&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Hi%20there,%20I'm%20Yog&animation=fadeIn" width="100%" />
+  
 </div>
 
 <h3 align="center">
