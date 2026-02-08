@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Hi%20there,%20I'm%20Yog&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Hi%20there,%20I'm%20Yog&animation=fadeIn" width="100%" />
   
 </div>
 
@@ -11,9 +11,9 @@
   I develop and maintain Technomedic's Web-based Hospital Management Application, manage on-site implementation, and conduct user training for partner hospitals.
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogip45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-</div>
+</div> -->
 
 ---
 
