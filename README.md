@@ -1,7 +1,7 @@
 <h2>Hi there, Yog is here</h2>
 
 <h3 align="left">
-  Junior Web Developer at PT. Indo Techno Medic, I develop and maintain the Technomedic SIMRS Web Application, as well as manage on-site implementation and user training for partner hospitals.
+  Junior Web Developer at PT. Indo Techno Medic, I develop and maintain the Technomedic's Web-based Hospital Management Application, as well as manage on-site implementation and user training for partner hospitals.
 </h3>
 
 <h2>What I Use</h2>
@@ -31,7 +31,7 @@
 
 <h2>What I Do</h2>
 <ul>
-  <li>Developing and maintaining SIMRS modules using CodeIgniter and PostgreSQL</li>
+  <li>Developing and maintaining Technomedic's Web-based Hospital Management Application</li>
   <li>Implementing multi-user level workflows and system logic within hospital environments</li>
   <li>Debugging, optimizing database queries, and improving system performance</li>
   <li>On-site implementation for new hospital clients migrating to our SIMRS</li>
