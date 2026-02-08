@@ -19,7 +19,7 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,postgres,mysql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,postgres,mysql,bash" />
 </p>
 
 ### 🚀 What I Do
