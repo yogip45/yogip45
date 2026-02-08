@@ -1,4 +1,4 @@
-<h2>Hi there, the name is Yog</h2>
+<h2>Hi there, Yog is here</h2>
 
 <h3 align="left">
   Junior Web Developer at PT. Indo Techno Medic, I develop and maintain the Technomedic SIMRS Web Application, as well as manage on-site implementation and user training for partner hospitals.
