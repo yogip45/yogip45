@@ -33,9 +33,15 @@
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://discordapp.com/users/450547182131478530" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-</a>
+  <a href="https://linkedin.com/in/narindra-yogi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:narindrayogipradana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://discordapp.com/users/450547182131478530" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  </a>
 </p>
 
 * **Inquiries:** For inquiries about our Hospital Management App products or onboarding, visit: [technomedic.id](https://technomedic.id)
