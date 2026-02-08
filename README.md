@@ -17,12 +17,12 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,postgres,mysql,bash" />
 </p>
 
-### 🚀 What I Do
+### What I Do
 * **Development:** Develop and maintain Technomedic's Web-based Hospital Management Application.
 * **Logic & Workflow:** Implement multi-user workflows and system logic within hospital environments.
 * **Optimization:** Debug and optimize database queries to improve system performance.
@@ -31,7 +31,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/narindra-yogi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
