@@ -41,5 +41,5 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogip45&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
