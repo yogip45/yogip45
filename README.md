@@ -31,10 +31,10 @@
 
 <h2>What I Do</h2>
 <ul>
-  <li>Developing and maintaining Technomedic's Web-based Hospital Management Application</li>
+  <li>Developing and maintaining Technomedic's Web-based Hospital Management App</li>
   <li>Implementing multi-user level workflows and system logic within hospital environments</li>
   <li>Debugging, optimizing database queries, and improving system performance</li>
-  <li>On-site implementation for new hospital clients migrating to our SIMRS</li>
+  <li>On-site implementation for new hospital clients migrating to our Hospital Management App</li>
   <li>Conducting user training (sosialisasi) and supporting hospital staff during system rollout</li>
 </ul>
 
@@ -45,7 +45,7 @@
   </a>
 </div>
 <ul>
-  <li>For inquiries about our SIMRS products or onboarding, visit:  
+  <li>For inquiries about our Hospital Management App products or onboarding, visit:  
     <a href="https://technomedic.id" target="_blank">https://technomedic.id</a>
   </li>
 </ul>
