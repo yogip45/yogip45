@@ -34,7 +34,7 @@
 ### Let's Connect
 <p align="left">
   <a href="https://yogip45.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3D5AFE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="my website" />
+    <img src="https://img.shields.io/badge/Website-3D5AFE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="my website" />
   </a>
   <a href="https://linkedin.com/in/narindra-yogi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
