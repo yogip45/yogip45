@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Hi%20there,%20I%27m%20Yog&animation=fadeIn" width="100%" />
-  
+  <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Hi%20there,%20I%27m%20Yog&animation=fadeIn" width="100%" /> -->
+  <img src="https://camo.githubusercontent.com/b8b8c64bc7d29af77fb2bd15f291384f44f44736bafe73483401b37588141bd3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d726f756e646564266865696768743d31323026636f6c6f723d6772616469656e7426746578743d486925323074686572652c253230492532376d253230596f6726616e696d6174696f6e3d66616465496e" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=rounded&amp;height=120&amp;color=gradient&amp;text=Hi%20there,%20I%27m%20Yog&amp;animation=fadeIn" style="max-width: 100%;">
 </div>
 
 <h3 align="center">
