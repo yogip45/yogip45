@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  I develop and maintain Technomedic's Web-based Hospital Management Application, manage on-site implementation, and conduct user training for partner hospitals.
+  Maintain Technomedic's Web-based Hospital Management Application, manage on-site implementation, and conduct user training for partner hospitals.
 </p>
 
 <!-- <div align="center">
