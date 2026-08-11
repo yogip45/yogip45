@@ -40,7 +40,8 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,codeigniter,js,jquery,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,jquery,bootstrap,html,css" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="48" alt="CodeIgniter" />
 </p>
 
 **Databases, Infrastructure & Tools**
@@ -53,8 +54,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yogip45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogip45&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yogip45&theme=tokyonight&hide_border=true" alt="Yogi's Streak Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yogip45&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
 </div>
 
 <br />
