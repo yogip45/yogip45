@@ -48,8 +48,3 @@
 </p>
 
 * **Inquiries:** For inquiries about our Hospital Management App products or onboarding, visit: [technomedic.id](https://technomedic.id)
-
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogip45&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" />
-</p>
