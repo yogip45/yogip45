@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Junior Web Developer at PT. Indo Techno Medic
+  Web Developer at PT. Indo Techno Medic
 </h3>
 
 <p align="center">
